@@ -14,7 +14,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 ### 关于我
-- [About Me](https://about.me/ochiamaluo)
+- [About Me](https://about.me/ochiamalu)
 - [CSDN](https://blog.csdn.net/OchiaMalu?spm=1010.2135.3001.5421)
 - [微博](https://weibo.com/5207524069/profile?topnav=1&wvr=6&is_all=1)
 - [Twitter](https://twitter.com/OchiaMaluo)

@@ -1,4 +1,4 @@
-### Hello gamers！！！ 👋
+### Hello Gamers！！！ 👋
 [![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=OchiaMalu&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 A Software technology students.

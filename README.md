@@ -5,7 +5,6 @@
 - 🌱 Currently studing in Wenzhou, China.
 - 💬 Ask me about C, Java or HTML and my projects on [linzhehao1108@126.com](mailto:linzhehao1108@126.com)
 - ⭐ I also like all kinds of console games, including gta5、Zelda、watchdog and the sea of thieves……
-- ⚡ I hope to devote myself to computer introductory teaching after graduation.
 
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
